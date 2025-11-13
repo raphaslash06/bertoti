@@ -13,4 +13,30 @@
 
   Automatização vs Custo Inicial: investir em testes automáticos ou infraestrutura é caro no começo, mas economiza tempo e problemas no futuro.
 
-  
+  # Ex. 4:
+
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab96e7fa-3191-40bc-9088-5f2b095863c8" />
+
+# Ex. 5:
+
+<img width="473" height="336" alt="image" src="https://github.com/user-attachments/assets/cffba149-812b-4bdd-a7ea-32baf6ddc5d5" />
+
+<img width="388" height="410" alt="image" src="https://github.com/user-attachments/assets/1fd4433b-2c91-4e5d-a26d-bb850a518435" />
+
+# Ex. 6:
+
+<img width="426" height="321" alt="image" src="https://github.com/user-attachments/assets/c9d9fb9a-f7fe-4780-8a42-3343076565e7" />
+
+# Ex. 7:
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/56e12483-1054-4f64-bc4e-ea9a3f9448e1" />
+
+# Ex. 8:
+
+<img width="454" height="339" alt="image" src="https://github.com/user-attachments/assets/8e05bb66-35c7-47ef-b8be-5ca20b960143" />
+
+<img width="379" height="411" alt="image" src="https://github.com/user-attachments/assets/e105acf3-bd65-42fd-8a82-db20f73e8305" />
+
+# Ex. 9:
+
+<img width="627" height="315" alt="image" src="https://github.com/user-attachments/assets/656ae655-36f7-447c-9400-d48fad604df4" />
