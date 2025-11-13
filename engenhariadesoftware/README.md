@@ -15,7 +15,8 @@
 
   # Ex. 4:
 
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab96e7fa-3191-40bc-9088-5f2b095863c8" />
+  <img width="1092" height="366" alt="image" src="https://github.com/user-attachments/assets/2061b989-1543-4dfd-b3df-b494d4e41942" />
+
 
 # Ex. 5:
 
@@ -29,7 +30,7 @@
 
 # Ex. 7:
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/56e12483-1054-4f64-bc4e-ea9a3f9448e1" />
+<img width="1199" height="425" alt="image" src="https://github.com/user-attachments/assets/5e806f65-3c6b-4a24-8a55-2dac24ba9452" />
 
 # Ex. 8:
 
